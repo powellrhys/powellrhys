@@ -6,6 +6,6 @@ With a Masters degree in Aerospace Engineering, my interests lie with aviation, 
 
 # Social 📱
 
-👔 [LinkedIn](https://www.linkedin.com/in/rhys-powell-8994b3151/)
-🐳 [DockerHub](https://hub.docker.com/u/powellrhys)
+* 👔 [LinkedIn](https://www.linkedin.com/in/rhys-powell-8994b3151/)
+* 🐳 [DockerHub](https://hub.docker.com/u/powellrhys)
 
