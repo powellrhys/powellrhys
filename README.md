@@ -12,4 +12,4 @@ With a Masters degree in Aerospace Engineering, my interests lie with aviation, 
 # Projects 💻	
 
 * [fantasy-premier-league-streamlit](https://fantasy-premier-league-streamlit.azurewebsites.net/)
-* [TensorFlow Number Classifier](https://tf-number-classification.azurewebsites.net/)
+* [tf-number-classification](https://tf-number-classification.azurewebsites.net/)
