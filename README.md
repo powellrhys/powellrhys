@@ -4,6 +4,10 @@
 
 With a Masters degree in Aerospace Engineering, my interests lie with aviation, engineering and software. Having gained experience in both data pipelines and infrastructure deployment, CI/CD and automation principles drive my development.
 
+# Skills
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 # Social 📱
 
 * 👔 [LinkedIn](https://www.linkedin.com/in/rhys-powell-8994b3151/)
