@@ -4,7 +4,7 @@
 
 With a Masters degree in Aerospace Engineering, my interests lie with aviation, engineering and software. Having gained experience in both data pipelines and infrastructure deployment, CI/CD and automation principles drive my development.
 
-### Skills
+## Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -20,12 +20,12 @@ With a Masters degree in Aerospace Engineering, my interests lie with aviation, 
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-### Social 📱
+## Social 📱
 
 * 👔 [LinkedIn](https://www.linkedin.com/in/rhys-powell-8994b3151/)
 * 🐳 [DockerHub](https://hub.docker.com/u/powellrhys)
 
-### Projects 💻	
+## Projects 💻	
 
 * [fantasy-premier-league-streamlit](https://fantasy-premier-league-streamlit.azurewebsites.net/)
 * [tf-number-classification](https://tf-number-classification.azurewebsites.net/)
