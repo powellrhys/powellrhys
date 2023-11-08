@@ -1,6 +1,6 @@
 # Hi, I'm Rhys 👋
 
-#### I am a Data and DevOps Engineer with over 2 years experience in the energy industry.
+**I am a Data and DevOps Engineer with over 2 years experience in the energy industry.**
 
 With a Masters degree in Aerospace Engineering, my interests lie with aviation, engineering and software. Having gained experience in both data pipelines and infrastructure deployment, CI/CD and automation principles drive my development.
 
