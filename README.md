@@ -32,3 +32,4 @@ With a Masters degree in Aerospace Engineering, my interests lie with aviation, 
 * [tf-number-classification](https://tf-number-classification.azurewebsites.net/)
 * [fantasy-premier-league-streamlit](https://fantasy-premier-league-streamlit.azurewebsites.net/)
 * [fantasy-premier-league-react](fantasy-premier-league-react.azurewebsites.net)
+* [strava-streamlit-frontend](https://strava-streamlit-frontend.azurewebsites.net/)
