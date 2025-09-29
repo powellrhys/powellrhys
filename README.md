@@ -1,8 +1,13 @@
-# Hi, I'm Rhys 👋
+# Hi, I'm Rhys 👋  
 
-**I am a Data and DevOps Engineer with over 2 years experience in the energy industry.**
+**Data & DevOps Engineer | 3+ years of experience working in Software and IT**  
 
-With a Masters degree in Aerospace Engineering, my interests lie with aviation, engineering and software. Having gained experience in both data pipelines and infrastructure deployment, CI/CD and automation principles drive my development.
+I’m passionate about building reliable, scalable systems that make data and infrastructure work seamlessly together. With a **Master’s in Aerospace Engineering**, my background blends engineering problem-solving with modern software practices.  
+
+🔧 Experienced in:  
+- Designing and maintaining **data pipelines**  
+- **Infrastructure deployment** & automation  
+- **CI/CD workflows** and DevOps best practices  
 
 ## Skills
 
@@ -12,24 +17,20 @@ With a Masters degree in Aerospace Engineering, my interests lie with aviation, 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## Social 📱
+## 🌐 Connect with me
 
-* 👔 [LinkedIn](https://www.linkedin.com/in/rhys-powell-8994b3151/)
-* 🐳 [DockerHub](https://hub.docker.com/u/powellrhys)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rhys-powell-8994b3151/)
+[![Docker Hub](https://img.shields.io/badge/DockerHub-Profile-blue?logo=docker&logoColor=white)](https://hub.docker.com/u/powellrhys)
 
-## Projects 💻	
+## 🚀 Projects
 
-* [tf-number-classification](https://tf-number-classification.azurewebsites.net/)
-* [fantasy-premier-league-streamlit](https://fantasy-premier-league-streamlit.azurewebsites.net/)
-* [fantasy-premier-league-react](fantasy-premier-league-react.azurewebsites.net)
-* [strava-streamlit-frontend](https://strava-streamlit-frontend.azurewebsites.net/)
+| Project Name                                                                 | Deployment                                                                           | Code Coverage                                                                                                                                                     |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**golf-ui-streamlit**](https://github.com/powellrhys/golf-ui-streamlit)     | [golf-streamlit-frontend](golf-streamlit-frontend.azurewebsites.net)                 | [![codecov](https://codecov.io/gh/powellrhys/golf-ui-streamlit/branch/main/graph/badge.svg?token=yNhANNzdtx)](https://codecov.io/gh/powellrhys/golf-ui-streamlit) |
+| [**strava-ui-streamlit**](https://github.com/powellrhys/strava-ui-streamlit) | [strava-streamlit-frontend](strava-streamlit-frontend.azurewebsites.net)             |                                                                                                                                                                   |
+| [**play-cricket**](https://github.com/powellrhys/play-cricket)               | [play-cricket-streamlit-frontend](play-cricket-streamlit-frontend.azurewebsites.net) |                                                                                                                                                                   |
