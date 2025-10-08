@@ -22,7 +22,7 @@ I’m passionate about building reliable, scalable systems that make data and in
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-## 📊 Project Breakdown
+## 📊 Languages Used Across Projects
 
 ![powellrhys's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=powellrhys&langs_count=8&layout=compact&theme=react&show_icons=true&hide_border=false&card_width=1000)
 
