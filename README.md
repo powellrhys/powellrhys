@@ -24,7 +24,7 @@ I’m passionate about building reliable, scalable systems that make data and in
 
 ## 📊 Project Breakdown
 
-![powellrhys's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=powellrhys&langs_count=8&layout=compact&theme=react&show_icons=truek&hide_border=false&card_width=1000&)
+![powellrhys's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=powellrhys&langs_count=8&layout=compact&theme=react&show_icons=true&hide_border=false&card_width=1000)
 
 ## 🌐 Connect with me
 
@@ -38,17 +38,3 @@ I’m passionate about building reliable, scalable systems that make data and in
 | [**golf-ui-streamlit**](https://github.com/powellrhys/golf-ui-streamlit)     | [golf-streamlit-frontend](golf-streamlit-frontend.azurewebsites.net)                 | [![codecov](https://codecov.io/gh/powellrhys/golf-ui-streamlit/branch/main/graph/badge.svg?token=yNhANNzdtx)](https://codecov.io/gh/powellrhys/golf-ui-streamlit) |
 | [**strava-ui-streamlit**](https://github.com/powellrhys/strava-ui-streamlit) | [strava-streamlit-frontend](strava-streamlit-frontend.azurewebsites.net)             |                                                                                                                                                                   |
 | [**play-cricket**](https://github.com/powellrhys/play-cricket)               | [play-cricket-streamlit-frontend](play-cricket-streamlit-frontend.azurewebsites.net) |                                                                                                                                                                   |
-
-
-<!-- ![powellrhys's Stats](https://github-readme-stats.vercel.app/api?username=powellrhys&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
-
-
-
-![powellrhys's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=powellrhys&theme=graywhite&show_icons=true&hide_border=false) -->
-
-<!-- ![powellrhys's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=powellrhys&langs_count=10&theme=graywhite&show_icons=true&hide_border=false)
-
-![powellrhys's Streak](https://github-readme-streak-stats.herokuapp.com/?user=powellrhys&theme=graywhite&hide_border=false) -->
-
-
-
