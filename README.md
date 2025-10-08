@@ -9,7 +9,7 @@ I’m passionate about building reliable, scalable systems that make data and in
 - **Infrastructure deployment** & automation  
 - **CI/CD workflows** and DevOps best practices  
 
-## Skills
+## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -21,6 +21,10 @@ I’m passionate about building reliable, scalable systems that make data and in
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+## 📊 Project Breakdown
+
+![powellrhys's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=powellrhys&langs_count=8&layout=compact&theme=react&show_icons=true&hide_border=false&card_width=1000)
 
 ## 🌐 Connect with me
 
