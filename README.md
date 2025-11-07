@@ -22,9 +22,13 @@ I’m passionate about building reliable, scalable systems that make data and in
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-## 📊 Languages Used Across Projects
+## 🎓 Certifications
 
-![powellrhys's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=powellrhys&langs_count=8&layout=compact&theme=react&show_icons=true&hide_border=false&card_width=1000)
+- [Microsoft Azure Fundamentals (Az-900)](https://www.credly.com/badges/e4d5d92c-c998-4964-b439-6b9988cafb7f/linked_in_profile)
+- [Microsoft Azure Data Fundamentals (DP-900)](https://www.credly.com/badges/c98d88e9-faea-4dcc-94a5-4804a1c33e91/linked_in_profile)
+- [Microsoft Azure AI Fundamentals (AI-900)](https://www.credly.com/badges/4d66eedf-38cd-4c1d-8f48-68fb5cb821fb/linked_in_profile)
+- [Microsoft Azure Data Engineer Associate [Retired] (DP-203)](https://learn.microsoft.com/en-us/users/rhyspowell-4587/credentials/57c63bf85107052d)
+- [Microsoft Azure Data Scientist Associate (DP-100)](https://learn.microsoft.com/en-us/users/rhyspowell-4587/credentials/fbbe982868aa4f8c)
 
 ## 🌐 Connect with me
 
@@ -33,10 +37,10 @@ I’m passionate about building reliable, scalable systems that make data and in
 
 ## 🚀 Projects
 
-| Project Name                                                                 | Deployment                                                                                    | Code Coverage                                                                                                                                                     |
-| ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**golf-ui-streamlit**](https://github.com/powellrhys/golf-ui-streamlit)     | [golf-streamlit-frontend](https://golf-streamlit-frontend.azurewebsites.net)                  | [![codecov](https://codecov.io/gh/powellrhys/golf-ui-streamlit/branch/main/graph/badge.svg?token=yNhANNzdtx)](https://codecov.io/gh/powellrhys/golf-ui-streamlit) |
-| [**strava-ui-streamlit**](https://github.com/powellrhys/strava-ui-streamlit) | [strava-streamlit-frontend](https://strava-streamlit-frontend.azurewebsites.net)              |                                                                                                                                                                   |
-| [**play-cricket**](https://github.com/powellrhys/play-cricket)               | [play-cricket-streamlit-frontend](https://play-cricket-streamlit-frontend.azurewebsites.net/) |
-| [**fantasy-premier-league**](https://github.com/powellrhys/fantasy-premier-league)   |  WIP  |       |
-| [**project-monitoring**](https://github.com/powellrhys/project-monitoring)   | [powellrhys-project-monitoring](https://powellrhys-project-monitoring.azurewebsites.net/)   | [![codecov](https://codecov.io/gh/powellrhys/project-monitoring/graph/badge.svg?token=k3QQIbikcT)](https://codecov.io/gh/powellrhys/project-monitoring)           |
+| Project Name                                                                       | Deployment                                                                                    | Code Coverage                                                                                                                                                     |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**golf-ui-streamlit**](https://github.com/powellrhys/golf-ui-streamlit)           | [golf-streamlit-frontend](https://golf-streamlit-frontend.azurewebsites.net)                  | [![codecov](https://codecov.io/gh/powellrhys/golf-ui-streamlit/branch/main/graph/badge.svg?token=yNhANNzdtx)](https://codecov.io/gh/powellrhys/golf-ui-streamlit) |
+| [**strava-ui-streamlit**](https://github.com/powellrhys/strava-ui-streamlit)       | [strava-streamlit-frontend](https://strava-streamlit-frontend.azurewebsites.net)              |                                                                                                                                                                   |
+| [**play-cricket**](https://github.com/powellrhys/play-cricket)                     | [play-cricket-streamlit-frontend](https://play-cricket-streamlit-frontend.azurewebsites.net/) |
+| [**fantasy-premier-league**](https://github.com/powellrhys/fantasy-premier-league) | WIP                                                                                           |                                                                                                                                                                   |
+| [**project-monitoring**](https://github.com/powellrhys/project-monitoring)         | [powellrhys-project-monitoring](https://powellrhys-project-monitoring.azurewebsites.net/)     | [![codecov](https://codecov.io/gh/powellrhys/project-monitoring/graph/badge.svg?token=k3QQIbikcT)](https://codecov.io/gh/powellrhys/project-monitoring)           |
